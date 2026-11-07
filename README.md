@@ -9,7 +9,7 @@ does not read, store, or transmit API keys.
 ## Install
 
 ```sh
-omarchy plugin add https://github.com/pooriaarab/private-repo-c4e6-omarchy.git \
+omarchy plugin add https://github.com/itsryanarmani/private-repo-c4e6-omarchy.git \
   --enable --yes
 ```
 
